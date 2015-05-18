@@ -7,5 +7,6 @@ int main()
 	cout<<"dev";
 	cout<<"test vi";
 	cout<<"test dev";
+	cout<<"test featurel";
 	return 0;
 }
