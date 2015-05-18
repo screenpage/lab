@@ -8,5 +8,7 @@ int main()
 	cout<<"test vi";
 	cout<<"test dev";
 	cout<<"test master featurel";
+	cout<<"test featurel";
+	cout<<"this is master and featurel";
 	return 0;
 }
